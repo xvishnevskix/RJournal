@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed8d138c-3755-4e59-83ab-46d2388aee25" name="Default Changelist" comment="db">
+      <change afterPath="$PROJECT_DIR$/frontend/dsfsd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="Main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="xvishnevskix" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="TJ-project" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/frontend/dsa.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/dsfsd.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/layouts/MainLayout.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="297oi2cy63PX2zsSHCpw3fAYx07" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Downloads/Проектики/TJ project/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\Downloads\\Проектики\\TJ project\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Downloads\Проектики\TJ project\backend" />
+      <recent name="D:\Downloads\Проектики\TJ project\frontend\components\AnotherPost" />
+      <recent name="D:\Downloads\Проектики\TJ project\frontend\utils\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Downloads\Проектики\TJ project" />
+      <recent name="D:\Downloads\Проектики\TJ project\frontend\redux\slices" />
+      <recent name="D:\Downloads\Проектики\TJ project\frontend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start:dev" />
+        <item itemvalue="npm.start:dev" />
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8d138c-3755-4e59-83ab-46d2388aee25" name="Default Changelist" comment="" />
+      <created>1652473609007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652473609007</updated>
+      <workItem from="1652473610388" duration="723000" />
+      <workItem from="1652506620025" duration="41000" />
+      <workItem from="1652506668548" duration="5303000" />
+      <workItem from="1652513819741" duration="356000" />
+      <workItem from="1652519161409" duration="1400000" />
+      <workItem from="1652526514785" duration="871000" />
+      <workItem from="1652527401298" duration="221000" />
+      <workItem from="1652527635780" duration="226000" />
+      <workItem from="1652527900860" duration="392000" />
+      <workItem from="1652528311181" duration="150000" />
+      <workItem from="1652528504946" duration="1256000" />
+      <workItem from="1652529788766" duration="3525000" />
+      <workItem from="1652595722885" duration="5534000" />
+      <workItem from="1652680241174" duration="595000" />
+      <workItem from="1652713192640" duration="3428000" />
+      <workItem from="1652798433677" duration="1000" />
+      <workItem from="1652863755191" duration="12878000" />
+      <workItem from="1653049443244" duration="3490000" />
+      <workItem from="1653069500307" duration="823000" />
+      <workItem from="1653072993262" duration="45403000" />
+      <workItem from="1653469699786" duration="11112000" />
+      <workItem from="1653558814828" duration="8088000" />
+      <workItem from="1653727595505" duration="5446000" />
+      <workItem from="1653818422482" duration="14899000" />
+      <workItem from="1653913570677" duration="18173000" />
+      <workItem from="1654067932296" duration="5169000" />
+      <workItem from="1654083600902" duration="313000" />
+      <workItem from="1654083926173" duration="9098000" />
+      <workItem from="1654702565244" duration="14462000" />
+      <workItem from="1654841133610" duration="14937000" />
+      <workItem from="1654956688111" duration="5948000" />
+      <workItem from="1655029503649" duration="13751000" />
+      <workItem from="1655285195004" duration="602000" />
+      <workItem from="1655458856294" duration="22742000" />
+      <workItem from="1655738473649" duration="597000" />
+      <workItem from="1655802510238" duration="1664000" />
+      <workItem from="1656261234238" duration="607000" />
+      <workItem from="1656418770053" duration="596000" />
+      <workItem from="1656676116412" duration="1012000" />
+      <workItem from="1656677551187" duration="43000" />
+      <workItem from="1656677601338" duration="3841000" />
+      <workItem from="1656748767586" duration="2554000" />
+      <workItem from="1656753993115" duration="6809000" />
+      <workItem from="1668073023511" duration="3861000" />
+      <workItem from="1668080177069" duration="2394000" />
+      <workItem from="1668082731016" duration="1902000" />
+    </task>
+    <task id="LOCAL-00001" summary="Auth Add">
+      <created>1652508604076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652508604076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Auth mod...">
+      <created>1652508828139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652508828139</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Auth mod...">
+      <created>1652509944553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652509944553</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Views added">
+      <created>1668074449818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668074449818</updated>
+    </task>
+    <task id="LOCAL-00005" summary="db">
+      <created>1668076317571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668076317571</updated>
+    </task>
+    <task id="LOCAL-00006" summary="db">
+      <created>1668076547283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668076547283</updated>
+    </task>
+    <task id="LOCAL-00007" summary="db">
+      <created>1668076585224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668076585224</updated>
+    </task>
+    <task id="LOCAL-00008" summary="db">
+      <created>1668076631445</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668076631445</updated>
+    </task>
+    <task id="LOCAL-00009" summary="db">
+      <created>1668076808523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668076808523</updated>
+    </task>
+    <task id="LOCAL-00010" summary="db">
+      <created>1668080304582</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668080304582</updated>
+    </task>
+    <task id="LOCAL-00011" summary="db">
+      <created>1668081031810</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668081031810</updated>
+    </task>
+    <task id="LOCAL-00012" summary="db">
+      <created>1668082156680</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668082156680</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Auth Add" />
+    <MESSAGE value="Auth mod..." />
+    <MESSAGE value="Views added" />
+    <MESSAGE value="db" />
+    <option name="LAST_COMMIT_MESSAGE" value="db" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/utils/api/post.ts</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
