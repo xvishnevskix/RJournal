@@ -16,7 +16,7 @@ export const Api = (ctx?: NextPageContext | GetServerSidePropsContext): ApiRetur
     const token = cookies.rtoken;
 
     const instance = axios.create({
-        baseURL: 'http://localhost:7777',
+        baseURL: 'https://rjournalbackend.herokuapp.com',
         headers: {
             Authorization: 'Bearer ' + token,
         },
